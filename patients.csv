@@ -1,0 +1,8 @@
+Patient_ID,Name,Age,Gender,Disease,Medical_Expense
+1,Ramesh,65,M,Diabetes,55000
+2,Sita,45,F,Fever,3000
+3,Mohan,72,M,Heart,90000
+4,Geeta,58,F,Asthma,12000
+5,Arjun,61,M,Heart,70000
+6,Lata,34,F,Fever,2500
+7,Dev,80,M,Diabetes,65000
